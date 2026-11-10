@@ -1,0 +1,27 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.mahjonghandbook/mcp",
+  "title": "MahjongHandbook — American NMJL, MCR & Riichi Mahjong Scoring Rules Engine",
+  "description": "Query American NMJL, Chinese Official MCR (81 Fan) & Japanese Riichi Mahjong scoring rules.",
+  "version": "1.0.2",
+  "websiteUrl": "https://mahjonghandbook.com",
+  "repository": {
+    "url": "https://github.com/AbigailDavised/mahjonghandbook-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://mahjonghandbook.com/icon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mahjonghandbook.com/api/mcp"
+    }
+  ]
+}

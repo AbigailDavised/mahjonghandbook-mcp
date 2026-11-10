@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mahjonghandbook": {
+      "type": "streamable-http",
+      "url": "https://mahjonghandbook.com/api/mcp"
+    }
+  }
+}
