@@ -1,4 +1,6 @@
-# MahjongHandbook — American NMJL, MCR & Riichi Mahjong Scoring Rules Engine
+
+
+[![mcptry](https://mcptry.com/badge/com.mahjonghandbook/mcp)](https://mcptry.com/servers/com.mahjonghandbook/mcp)
 
 [![Official Website](https://img.shields.io/badge/Website-mahjonghandbook.com-blue)](https://mahjonghandbook.com)
 [![MCP Registry](https://img.shields.io/badge/MCP_Registry-com.mahjonghandbook%2Fmcp-green)](https://www.mcptry.com/servers/com.mahjonghandbook/mcp)
