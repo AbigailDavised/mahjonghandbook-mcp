@@ -1,6 +1,7 @@
 
 
 [![mcptry](https://mcptry.com/badge/com.mahjonghandbook/mcp)](https://mcptry.com/servers/com.mahjonghandbook/mcp)
+[![MCPRush Listing](https://mcprush.com/badge/mahjonghandbook-american-nmjl-mcr-riichi-mahj-mcp/card.svg)](https://mcprush.com/to/mahjonghandbook-american-nmjl-mcr-riichi-mahj-mcp?ref=badge)
 
 [![Official Website](https://img.shields.io/badge/Website-mahjonghandbook.com-blue)](https://mahjonghandbook.com)
 [![MCP Registry](https://img.shields.io/badge/MCP_Registry-com.mahjonghandbook%2Fmcp-green)](https://www.mcptry.com/servers/com.mahjonghandbook/mcp)
