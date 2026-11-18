@@ -1,16 +1,31 @@
 {
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "mahjonghandbook",
-  "version": "1.0.2",
-  "description": "Query American NMJL, Chinese Official MCR (81 Fan) & Japanese Riichi Mahjong scoring rules.",
+  "version": "1.0.1",
+  "description": "Official stateless MCP server for MahjongHandbook.com — American Mahjong (NMJL Charleston & Joker rules), Chinese Official MCR (81 Fan), and Japanese Riichi Yaku/Fu scoring referee.",
   "homepage": "https://mahjonghandbook.com",
   "repository": "https://github.com/AbigailDavised/mahjonghandbook-mcp",
   "license": "MIT",
   "author": {
-    "name": "MahjongHandbook",
+    "name": "Abigail Davised",
+    "email": "admin@mahjonghandbook.com",
     "url": "https://mahjonghandbook.com"
   },
-  "mcpServers": "./mcp.json",
-  "skills": [
-    "./skills/mahjonghandbook"
-  ]
+  "keywords": [
+    "mahjong",
+    "nmjl-card",
+    "american-mahjong",
+    "riichi-mahjong",
+    "scoring-referee",
+    "mcp"
+  ],
+  "extensions": {
+    "com.nousresearch.hermes": {
+      "servers": {
+        "mahjonghandbook": {
+          "trust": "untrusted"
+        }
+      }
+    }
+  }
 }
