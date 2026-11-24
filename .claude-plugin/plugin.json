@@ -9,7 +9,7 @@
     "name": "MahjongHandbook",
     "url": "https://mahjonghandbook.com"
   },
-  "mcpServers": "./mcp.json",
+  "mcpServers": "./.mcp.json",
   "skills": [
     "./skills/mahjonghandbook"
   ]

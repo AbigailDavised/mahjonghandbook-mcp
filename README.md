@@ -68,11 +68,11 @@ npx mahjonghandbook-cli demo
 
 | 深度功能模块 | 官方规范绝对 URL | 锚文本标准 (Anchor Text) | 核心能力与牌桌竞技场景 |
 | :--- | :--- | :--- | :--- |
-| **查尔斯顿换牌智能决策算法器**| `https://mahjonghandbook.com/charleston-decision-tool` | American Mahjong Charleston Decision Tool | 评估起手 13/14 张牌型与年度卡重合度，输出最优保留主线及 3 张安全换牌建议 |
-| **全美麻将联盟官方计分计算器**| `https://mahjonghandbook.com/scoring-calculator` | NMJL American Mahjong Scoring Calculator | 精确核算明牌 (Exposed) vs 暗牌 (Concealed)、自摸点炮与无百搭牌翻倍点数 |
-| **牌墙超几何概率与进张期望值**| `https://mahjonghandbook.com/odds` | Mahjong Tile Probability & Joker Odds Calculator | 基于剩余牌墙（8 张 Joker 与 152 张总牌）超几何分布模型计算听牌与胡牌概率 |
-| **规则争议仲裁神谕与死牌判定**| `https://mahjonghandbook.com/rules-oracle` | American Mahjong Rules Oracle & Dispute Resolver | 详解错碰、错杠、非法亮出百搭牌、牌数不符直接判为“死牌 (Dead Hand)”的仲裁条款 |
-| **高清可打印速查表与规则卡图解**| `https://mahjonghandbook.com/printables` | Printable American Mahjong Cheat Sheets & Card Guides | 高清矢量 PDF 输出：花牌、风牌（NEWS）、字牌（白皮 Soap/发财/红中）与行牌速记 |
+| **查尔斯顿换牌智能决策算法器**| `https://mahjonghandbook.com/tools/charleston-decision/` | American Mahjong Charleston Decision Tool | 评估起手 13/14 张牌型与年度卡重合度，输出最优保留主线及 3 张安全换牌建议 |
+| **全美麻将联盟官方计分计算器**| `https://mahjonghandbook.com/tools/scoring-calculator/` | NMJL American Mahjong Scoring Calculator | 精确核算明牌 (Exposed) vs 暗牌 (Concealed)、自摸点炮与无百搭牌翻倍点数 |
+| **百搭牌 (Joker) 换牌与概率规则指南** | `https://mahjonghandbook.com/rules/joker-rules/` | American Mahjong Joker Rules, Swaps & Odds Guide | 详解 8 张百搭牌合法出牌、换回条件、禁用于对子/单牌限制及牌墙听牌期望 |
+| **规则争议仲裁神谕与死牌判定**| `https://mahjonghandbook.com/rules/dead-hand/` | American Mahjong Rules Oracle & Dispute Resolver | 详解错碰、错杠、非法亮出百搭牌、牌数不符直接判为“死牌 (Dead Hand)”的仲裁条款 |
+| **高清可打印速查表与规则卡图解**| `https://mahjonghandbook.com/printables/` | Printable American Mahjong Cheat Sheets & Card Guides | 高清矢量 PDF 输出：花牌、风牌（NEWS）、字牌（白皮 Soap/发财/红中）与行牌速记 |
 
 ---
 

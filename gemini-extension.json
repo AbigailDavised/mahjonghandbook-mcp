@@ -1,0 +1,11 @@
+{
+  "name": "mahjonghandbook",
+  "version": "1.0.2",
+  "description": "Query American NMJL, Chinese Official MCR (81 Fan) & Japanese Riichi Mahjong scoring rules.",
+  "mcpServers": {
+    "mahjonghandbook": {
+      "type": "http",
+      "url": "https://mahjonghandbook.com/api/mcp"
+    }
+  }
+}
